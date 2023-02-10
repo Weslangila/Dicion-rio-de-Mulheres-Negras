@@ -1,7 +1,7 @@
 function carregaDicionario () {
     var biografias = {
         bio01: { 
-            nome: "arielle Franco",
+            nome: "Marielle Franco",
             imagem: "https://i.postimg.cc/KjKZYGHb/marielle-franco.png",
             descricao: 
             "Marielle Francisco da Silva, conhecida como Marielle Franco, foi uma socióloga, feminista, militante dos direitos humanos e política brasileira. Filiada ao Partido Socialismo e Liberdade (PSOL), elegeu-se vereadora do Rio de Janeiro para a Legislatura 2017-2020, durante a eleição municipal de 2016, com a quinta maior votação. Crítica da intervenção federal no Rio de Janeiro e da Polícia Militar, denunciava constantemente abusos de autoridade por parte de policiais contra moradores de comunidades carentes. Em 14 de março de 2018, foi assassinada a tiros.", 
